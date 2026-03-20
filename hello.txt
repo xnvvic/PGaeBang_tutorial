@@ -1,3 +1,2 @@
-hello from master branch
 1 line
-2 line
+Second line
